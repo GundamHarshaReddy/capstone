@@ -1,0 +1,20 @@
+{
+  "dataset_name": "S&P 500 Real Financial News Time Series",
+  "total_articles_processed": 4589,
+  "unique_companies": 469,
+  "date_range": {
+    "start": "2006-12-04",
+    "end": "2024-04-20"
+  },
+  "average_articles_per_company": 9.78,
+  "sentiment_distribution": {
+    "positive_articles": 817,
+    "negative_articles": 896,
+    "neutral_articles": 2876,
+    "positive_ratio": 0.178,
+    "negative_ratio": 0.1952,
+    "neutral_ratio": 0.6267
+  },
+  "mean_sentiment_risk_score": 49.86,
+  "std_sentiment_risk_score": 24.86
+}

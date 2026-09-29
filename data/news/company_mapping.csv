@@ -1,0 +1,470 @@
+source_company_symbol,canonical_company_name,company_id,mapping_method,confidence
+A,Agilent Technologies,1,Ticker-Symbol Exact Match,1.0
+AAL,American Airlines Group,2,Ticker-Symbol Exact Match,1.0
+AAPL,Apple Inc.,3,Ticker-Symbol Exact Match,1.0
+ABBV,AbbVie,4,Ticker-Symbol Exact Match,1.0
+ABNB,Airbnb,5,Ticker-Symbol Exact Match,1.0
+ABT,Abbott,6,Ticker-Symbol Exact Match,1.0
+ACGL,Arch Capital Group,7,Ticker-Symbol Exact Match,1.0
+ACN,Accenture,8,Ticker-Symbol Exact Match,1.0
+ADBE,Adobe Inc.,9,Ticker-Symbol Exact Match,1.0
+ADI,Analog Devices,10,Ticker-Symbol Exact Match,1.0
+ADM,Archer-Daniels-Midland,11,Ticker-Symbol Exact Match,1.0
+ADP,Automatic Data Processing,12,Ticker-Symbol Exact Match,1.0
+ADSK,Autodesk,13,Ticker-Symbol Exact Match,1.0
+AEE,Ameren,14,Ticker-Symbol Exact Match,1.0
+AEP,American Electric Power,15,Ticker-Symbol Exact Match,1.0
+AFL,Aflac,16,Ticker-Symbol Exact Match,1.0
+AIG,American International Group,17,Ticker-Symbol Exact Match,1.0
+AIZ,Assurant,18,Ticker-Symbol Exact Match,1.0
+AKAM,Akamai,19,Ticker-Symbol Exact Match,1.0
+ALGN,Align Technology,20,Ticker-Symbol Exact Match,1.0
+ALL,Allstate,21,Ticker-Symbol Exact Match,1.0
+AMAT,Applied Materials,22,Ticker-Symbol Exact Match,1.0
+AMD,Advanced Micro Devices,23,Ticker-Symbol Exact Match,1.0
+AMGN,Amgen,24,Ticker-Symbol Exact Match,1.0
+AMP,Ameriprise Financial,25,Ticker-Symbol Exact Match,1.0
+AMT,American Tower,26,Ticker-Symbol Exact Match,1.0
+AMZN,Amazon,27,Ticker-Symbol Exact Match,1.0
+ANET,Arista Networks,28,Ticker-Symbol Exact Match,1.0
+ANSS,Ansys,29,Ticker-Symbol Exact Match,1.0
+AON,Aon,30,Ticker-Symbol Exact Match,1.0
+AOS,A. O. Smith,31,Ticker-Symbol Exact Match,1.0
+APD,Air Products and Chemicals,32,Ticker-Symbol Exact Match,1.0
+APH,Amphenol,33,Ticker-Symbol Exact Match,1.0
+APTV,Aptiv,34,Ticker-Symbol Exact Match,1.0
+ARE,Alexandria Real Estate Equities,35,Ticker-Symbol Exact Match,1.0
+ATO,Atmos Energy,36,Ticker-Symbol Exact Match,1.0
+AVB,AvalonBay Communities,37,Ticker-Symbol Exact Match,1.0
+AVGO,Broadcom Inc.,38,Ticker-Symbol Exact Match,1.0
+AVY,Avery Dennison,39,Ticker-Symbol Exact Match,1.0
+AWK,American Water Works,40,Ticker-Symbol Exact Match,1.0
+AXON,Axon Enterprise,41,Ticker-Symbol Exact Match,1.0
+AXP,American Express,42,Ticker-Symbol Exact Match,1.0
+AZO,AutoZone,43,Ticker-Symbol Exact Match,1.0
+BA,Boeing,44,Ticker-Symbol Exact Match,1.0
+BAC,Bank of America,45,Ticker-Symbol Exact Match,1.0
+BALL,Ball Corporation,46,Ticker-Symbol Exact Match,1.0
+BAX,Baxter International,47,Ticker-Symbol Exact Match,1.0
+BBWI,"Bath & Body Works, Inc.",48,Ticker-Symbol Exact Match,1.0
+BBY,Best Buy,49,Ticker-Symbol Exact Match,1.0
+BDX,Becton Dickinson,50,Ticker-Symbol Exact Match,1.0
+BEN,Franklin Templeton,51,Ticker-Symbol Exact Match,1.0
+BF.B,Brown–Forman,52,Ticker-Symbol Exact Match,1.0
+BG,Bunge Global SA,53,Ticker-Symbol Exact Match,1.0
+BIIB,Biogen,54,Ticker-Symbol Exact Match,1.0
+BK,Bank of New York Mellon,55,Ticker-Symbol Exact Match,1.0
+BKNG,Booking Holdings,56,Ticker-Symbol Exact Match,1.0
+BKR,Baker Hughes,57,Ticker-Symbol Exact Match,1.0
+BLDR,Builders FirstSource,58,Ticker-Symbol Exact Match,1.0
+BLK,BlackRock,59,Ticker-Symbol Exact Match,1.0
+BMY,Bristol Myers Squibb,60,Ticker-Symbol Exact Match,1.0
+BR,Broadridge Financial Solutions,61,Ticker-Symbol Exact Match,1.0
+BRK.B,Berkshire Hathaway,62,Ticker-Symbol Exact Match,1.0
+BRO,Brown & Brown,63,Ticker-Symbol Exact Match,1.0
+BSX,Boston Scientific,64,Ticker-Symbol Exact Match,1.0
+BWA,BorgWarner,65,Ticker-Symbol Exact Match,1.0
+BX,Blackstone,66,Ticker-Symbol Exact Match,1.0
+BXP,Boston Properties,67,Ticker-Symbol Exact Match,1.0
+C,Citigroup,68,Ticker-Symbol Exact Match,1.0
+CAG,Conagra Brands,69,Ticker-Symbol Exact Match,1.0
+CAH,Cardinal Health,70,Ticker-Symbol Exact Match,1.0
+CARR,Carrier Global,71,Ticker-Symbol Exact Match,1.0
+CAT,Caterpillar Inc.,72,Ticker-Symbol Exact Match,1.0
+CB,Chubb Limited,73,Ticker-Symbol Exact Match,1.0
+CBOE,Cboe Global Markets,74,Ticker-Symbol Exact Match,1.0
+CBRE,CBRE Group,75,Ticker-Symbol Exact Match,1.0
+CCI,Crown Castle,76,Ticker-Symbol Exact Match,1.0
+CCL,Carnival,77,Ticker-Symbol Exact Match,1.0
+CDNS,Cadence Design Systems,78,Ticker-Symbol Exact Match,1.0
+CDW,CDW,79,Ticker-Symbol Exact Match,1.0
+CE,Celanese,80,Ticker-Symbol Exact Match,1.0
+CEG,Constellation Energy,81,Ticker-Symbol Exact Match,1.0
+CF,CF Industries,82,Ticker-Symbol Exact Match,1.0
+CFG,Citizens Financial Group,83,Ticker-Symbol Exact Match,1.0
+CHD,Church & Dwight,84,Ticker-Symbol Exact Match,1.0
+CHRW,CH Robinson,85,Ticker-Symbol Exact Match,1.0
+CHTR,Charter Communications,86,Ticker-Symbol Exact Match,1.0
+CI,Cigna,87,Ticker-Symbol Exact Match,1.0
+CINF,Cincinnati Financial,88,Ticker-Symbol Exact Match,1.0
+CL,Colgate-Palmolive,89,Ticker-Symbol Exact Match,1.0
+CLX,Clorox,90,Ticker-Symbol Exact Match,1.0
+CMA,Comerica,91,Ticker-Symbol Exact Match,1.0
+CMCSA,Comcast,92,Ticker-Symbol Exact Match,1.0
+CME,CME Group,93,Ticker-Symbol Exact Match,1.0
+CMG,Chipotle Mexican Grill,94,Ticker-Symbol Exact Match,1.0
+CMI,Cummins,95,Ticker-Symbol Exact Match,1.0
+CMS,CMS Energy,96,Ticker-Symbol Exact Match,1.0
+CNC,Centene Corporation,97,Ticker-Symbol Exact Match,1.0
+CNP,CenterPoint Energy,98,Ticker-Symbol Exact Match,1.0
+COF,Capital One,99,Ticker-Symbol Exact Match,1.0
+COO,CooperCompanies,100,Ticker-Symbol Exact Match,1.0
+COP,ConocoPhillips,101,Ticker-Symbol Exact Match,1.0
+COST,Costco,102,Ticker-Symbol Exact Match,1.0
+CPB,Campbell Soup Company,103,Ticker-Symbol Exact Match,1.0
+CPRT,Copart,104,Ticker-Symbol Exact Match,1.0
+CPT,Camden Property Trust,105,Ticker-Symbol Exact Match,1.0
+CRL,Charles River Laboratories,106,Ticker-Symbol Exact Match,1.0
+CRM,Salesforce,107,Ticker-Symbol Exact Match,1.0
+CSCO,Cisco,108,Ticker-Symbol Exact Match,1.0
+CSGP,CoStar Group,109,Ticker-Symbol Exact Match,1.0
+CSX,CSX,110,Ticker-Symbol Exact Match,1.0
+CTAS,Cintas,111,Ticker-Symbol Exact Match,1.0
+CTLT,Catalent,112,Ticker-Symbol Exact Match,1.0
+CTRA,Coterra,113,Ticker-Symbol Exact Match,1.0
+CTSH,Cognizant,114,Ticker-Symbol Exact Match,1.0
+CTVA,Corteva,115,Ticker-Symbol Exact Match,1.0
+CVS,CVS Health,116,Ticker-Symbol Exact Match,1.0
+CVX,Chevron Corporation,117,Ticker-Symbol Exact Match,1.0
+CZR,Caesars Entertainment,118,Ticker-Symbol Exact Match,1.0
+D,Dominion Energy,119,Ticker-Symbol Exact Match,1.0
+DAL,Delta Air Lines,120,Ticker-Symbol Exact Match,1.0
+DD,DuPont,121,Ticker-Symbol Exact Match,1.0
+DE,John Deere,122,Ticker-Symbol Exact Match,1.0
+DECK,Deckers Brands,123,Ticker-Symbol Exact Match,1.0
+DFS,Discover Financial,124,Ticker-Symbol Exact Match,1.0
+DG,Dollar General,125,Ticker-Symbol Exact Match,1.0
+DGX,Quest Diagnostics,126,Ticker-Symbol Exact Match,1.0
+DHI,DR Horton,127,Ticker-Symbol Exact Match,1.0
+DHR,Danaher Corporation,128,Ticker-Symbol Exact Match,1.0
+DIS,Walt Disney,129,Ticker-Symbol Exact Match,1.0
+DLR,Digital Realty,130,Ticker-Symbol Exact Match,1.0
+DLTR,Dollar Tree,131,Ticker-Symbol Exact Match,1.0
+DOW,Dow Inc.,132,Ticker-Symbol Exact Match,1.0
+DPZ,Domino's,133,Ticker-Symbol Exact Match,1.0
+DRI,Darden Restaurants,134,Ticker-Symbol Exact Match,1.0
+DTE,DTE Energy,135,Ticker-Symbol Exact Match,1.0
+DUK,Duke Energy,136,Ticker-Symbol Exact Match,1.0
+DVA,DaVita Inc.,137,Ticker-Symbol Exact Match,1.0
+DVN,Devon Energy,138,Ticker-Symbol Exact Match,1.0
+DXCM,Dexcom,139,Ticker-Symbol Exact Match,1.0
+EA,Electronic Arts,140,Ticker-Symbol Exact Match,1.0
+EBAY,eBay,141,Ticker-Symbol Exact Match,1.0
+ECL,Ecolab,142,Ticker-Symbol Exact Match,1.0
+ED,Consolidated Edison,143,Ticker-Symbol Exact Match,1.0
+EFX,Equifax,144,Ticker-Symbol Exact Match,1.0
+EG,Everest Re,145,Ticker-Symbol Exact Match,1.0
+EIX,Edison International,146,Ticker-Symbol Exact Match,1.0
+EL,Estée Lauder Companies (The),147,Ticker-Symbol Exact Match,1.0
+ELV,Elevance Health,148,Ticker-Symbol Exact Match,1.0
+EMN,Eastman Chemical Company,149,Ticker-Symbol Exact Match,1.0
+EMR,Emerson Electric,150,Ticker-Symbol Exact Match,1.0
+ENPH,Enphase,151,Ticker-Symbol Exact Match,1.0
+EOG,EOG Resources,152,Ticker-Symbol Exact Match,1.0
+EPAM,EPAM Systems,153,Ticker-Symbol Exact Match,1.0
+EQIX,Equinix,154,Ticker-Symbol Exact Match,1.0
+EQR,Equity Residential,155,Ticker-Symbol Exact Match,1.0
+EQT,EQT,156,Ticker-Symbol Exact Match,1.0
+ES,Eversource,157,Ticker-Symbol Exact Match,1.0
+ESS,Essex Property Trust,158,Ticker-Symbol Exact Match,1.0
+ETN,Eaton Corporation,159,Ticker-Symbol Exact Match,1.0
+ETR,Entergy,160,Ticker-Symbol Exact Match,1.0
+ETSY,Etsy,161,Ticker-Symbol Exact Match,1.0
+EW,Edwards Lifesciences,162,Ticker-Symbol Exact Match,1.0
+EXC,Exelon,163,Ticker-Symbol Exact Match,1.0
+EXPD,Expeditors International,164,Ticker-Symbol Exact Match,1.0
+EXPE,Expedia Group,165,Ticker-Symbol Exact Match,1.0
+EXR,Extra Space Storage,166,Ticker-Symbol Exact Match,1.0
+F,Ford Motor Company,167,Ticker-Symbol Exact Match,1.0
+FANG,Diamondback Energy,168,Ticker-Symbol Exact Match,1.0
+FAST,Fastenal,169,Ticker-Symbol Exact Match,1.0
+FCX,Freeport-McMoRan,170,Ticker-Symbol Exact Match,1.0
+FDS,FactSet,171,Ticker-Symbol Exact Match,1.0
+FDX,FedEx,172,Ticker-Symbol Exact Match,1.0
+FE,FirstEnergy,173,Ticker-Symbol Exact Match,1.0
+FFIV,"F5, Inc.",174,Ticker-Symbol Exact Match,1.0
+FI,Fiserv,175,Ticker-Symbol Exact Match,1.0
+FICO,Fair Isaac,176,Ticker-Symbol Exact Match,1.0
+FIS,Fidelity National Information Services,177,Ticker-Symbol Exact Match,1.0
+FITB,Fifth Third Bank,178,Ticker-Symbol Exact Match,1.0
+FMC,FMC Corporation,179,Ticker-Symbol Exact Match,1.0
+FOXA,Fox Corporation (Class A),180,Ticker-Symbol Exact Match,1.0
+FRT,Federal Realty,181,Ticker-Symbol Exact Match,1.0
+FSLR,First Solar,182,Ticker-Symbol Exact Match,1.0
+FTNT,Fortinet,183,Ticker-Symbol Exact Match,1.0
+GD,General Dynamics,184,Ticker-Symbol Exact Match,1.0
+GE,GE Aerospace,185,Ticker-Symbol Exact Match,1.0
+GEHC,GE HealthCare,186,Ticker-Symbol Exact Match,1.0
+GEN,Gen Digital,187,Ticker-Symbol Exact Match,1.0
+GEV,GE Vernova,188,Ticker-Symbol Exact Match,1.0
+GILD,Gilead Sciences,189,Ticker-Symbol Exact Match,1.0
+GIS,General Mills,190,Ticker-Symbol Exact Match,1.0
+GL,Globe Life,191,Ticker-Symbol Exact Match,1.0
+GLW,Corning Inc.,192,Ticker-Symbol Exact Match,1.0
+GM,General Motors,193,Ticker-Symbol Exact Match,1.0
+GNRC,Generac,194,Ticker-Symbol Exact Match,1.0
+GOOG,Alphabet Inc. (Class C),195,Ticker-Symbol Exact Match,1.0
+GOOGL,Alphabet Inc. (Class A),196,Ticker-Symbol Exact Match,1.0
+GPC,Genuine Parts Company,197,Ticker-Symbol Exact Match,1.0
+GPN,Global Payments,198,Ticker-Symbol Exact Match,1.0
+GRMN,Garmin,199,Ticker-Symbol Exact Match,1.0
+GS,Goldman Sachs,200,Ticker-Symbol Exact Match,1.0
+GWW,W. W. Grainger,201,Ticker-Symbol Exact Match,1.0
+HAL,Halliburton,202,Ticker-Symbol Exact Match,1.0
+HAS,Hasbro,203,Ticker-Symbol Exact Match,1.0
+HBAN,Huntington Bancshares,204,Ticker-Symbol Exact Match,1.0
+HCA,HCA Healthcare,205,Ticker-Symbol Exact Match,1.0
+HD,Home Depot (The),206,Ticker-Symbol Exact Match,1.0
+HIG,Hartford (The),207,Ticker-Symbol Exact Match,1.0
+HII,Huntington Ingalls Industries,208,Ticker-Symbol Exact Match,1.0
+HLT,Hilton Worldwide,209,Ticker-Symbol Exact Match,1.0
+HOLX,Hologic,210,Ticker-Symbol Exact Match,1.0
+HON,Honeywell,211,Ticker-Symbol Exact Match,1.0
+HPE,Hewlett Packard Enterprise,212,Ticker-Symbol Exact Match,1.0
+HPQ,HP Inc.,213,Ticker-Symbol Exact Match,1.0
+HRL,Hormel Foods,214,Ticker-Symbol Exact Match,1.0
+HSIC,Henry Schein,215,Ticker-Symbol Exact Match,1.0
+HST,Host Hotels & Resorts,216,Ticker-Symbol Exact Match,1.0
+HSY,Hershey's,217,Ticker-Symbol Exact Match,1.0
+HUM,Humana,218,Ticker-Symbol Exact Match,1.0
+HWM,Howmet Aerospace,219,Ticker-Symbol Exact Match,1.0
+IBM,IBM,220,Ticker-Symbol Exact Match,1.0
+ICE,Intercontinental Exchange,221,Ticker-Symbol Exact Match,1.0
+IDXX,Idexx Laboratories,222,Ticker-Symbol Exact Match,1.0
+IFF,International Flavors & Fragrances,223,Ticker-Symbol Exact Match,1.0
+ILMN,Illumina,224,Ticker-Symbol Exact Match,1.0
+INCY,Incyte,225,Ticker-Symbol Exact Match,1.0
+INTC,Intel,226,Ticker-Symbol Exact Match,1.0
+INTU,Intuit,227,Ticker-Symbol Exact Match,1.0
+INVH,Invitation Homes,228,Ticker-Symbol Exact Match,1.0
+IP,International Paper,229,Ticker-Symbol Exact Match,1.0
+IPG,Interpublic Group of Companies (The),230,Ticker-Symbol Exact Match,1.0
+IQV,IQVIA,231,Ticker-Symbol Exact Match,1.0
+IR,Ingersoll Rand,232,Ticker-Symbol Exact Match,1.0
+IRM,Iron Mountain,233,Ticker-Symbol Exact Match,1.0
+ISRG,Intuitive Surgical,234,Ticker-Symbol Exact Match,1.0
+IT,Gartner,235,Ticker-Symbol Exact Match,1.0
+ITW,Illinois Tool Works,236,Ticker-Symbol Exact Match,1.0
+IVZ,Invesco,237,Ticker-Symbol Exact Match,1.0
+J,Jacobs Solutions,238,Ticker-Symbol Exact Match,1.0
+JBHT,J.B. Hunt,239,Ticker-Symbol Exact Match,1.0
+JBL,Jabil,240,Ticker-Symbol Exact Match,1.0
+JCI,Johnson Controls,241,Ticker-Symbol Exact Match,1.0
+JKHY,Jack Henry & Associates,242,Ticker-Symbol Exact Match,1.0
+JNJ,Johnson & Johnson,243,Ticker-Symbol Exact Match,1.0
+JNPR,Juniper Networks,244,Ticker-Symbol Exact Match,1.0
+JPM,JPMorgan Chase,245,Ticker-Symbol Exact Match,1.0
+KDP,Keurig Dr Pepper,246,Ticker-Symbol Exact Match,1.0
+KEY,KeyCorp,247,Ticker-Symbol Exact Match,1.0
+KEYS,Keysight,248,Ticker-Symbol Exact Match,1.0
+KHC,Kraft Heinz,249,Ticker-Symbol Exact Match,1.0
+KIM,Kimco Realty,250,Ticker-Symbol Exact Match,1.0
+KMB,Kimberly-Clark,251,Ticker-Symbol Exact Match,1.0
+KMI,Kinder Morgan,252,Ticker-Symbol Exact Match,1.0
+KMX,CarMax,253,Ticker-Symbol Exact Match,1.0
+KO,Coca-Cola Company (The),254,Ticker-Symbol Exact Match,1.0
+KR,Kroger,255,Ticker-Symbol Exact Match,1.0
+KVUE,Kenvue,256,Ticker-Symbol Exact Match,1.0
+L,Loews Corporation,257,Ticker-Symbol Exact Match,1.0
+LDOS,Leidos,258,Ticker-Symbol Exact Match,1.0
+LEN,Lennar,259,Ticker-Symbol Exact Match,1.0
+LH,LabCorp,260,Ticker-Symbol Exact Match,1.0
+LHX,L3Harris,261,Ticker-Symbol Exact Match,1.0
+LLY,Eli Lilly and Company,262,Ticker-Symbol Exact Match,1.0
+LMT,Lockheed Martin,263,Ticker-Symbol Exact Match,1.0
+LNT,Alliant Energy,264,Ticker-Symbol Exact Match,1.0
+LOW,Lowe's,265,Ticker-Symbol Exact Match,1.0
+LRCX,Lam Research,266,Ticker-Symbol Exact Match,1.0
+LULU,Lululemon Athletica,267,Ticker-Symbol Exact Match,1.0
+LUV,Southwest Airlines,268,Ticker-Symbol Exact Match,1.0
+LVS,Las Vegas Sands,269,Ticker-Symbol Exact Match,1.0
+LW,Lamb Weston,270,Ticker-Symbol Exact Match,1.0
+LYB,LyondellBasell,271,Ticker-Symbol Exact Match,1.0
+LYV,Live Nation Entertainment,272,Ticker-Symbol Exact Match,1.0
+MA,Mastercard,273,Ticker-Symbol Exact Match,1.0
+MAA,Mid-America Apartment Communities,274,Ticker-Symbol Exact Match,1.0
+MAR,Marriott International,275,Ticker-Symbol Exact Match,1.0
+MAS,Masco,276,Ticker-Symbol Exact Match,1.0
+MCD,McDonald's,277,Ticker-Symbol Exact Match,1.0
+MCHP,Microchip Technology,278,Ticker-Symbol Exact Match,1.0
+MCK,McKesson,279,Ticker-Symbol Exact Match,1.0
+MCO,Moody's Corporation,280,Ticker-Symbol Exact Match,1.0
+MDLZ,Mondelez International,281,Ticker-Symbol Exact Match,1.0
+MDT,Medtronic,282,Ticker-Symbol Exact Match,1.0
+MET,MetLife,283,Ticker-Symbol Exact Match,1.0
+META,Meta Platforms,284,Ticker-Symbol Exact Match,1.0
+MGM,MGM Resorts,285,Ticker-Symbol Exact Match,1.0
+MHK,Mohawk Industries,286,Ticker-Symbol Exact Match,1.0
+MKC,McCormick & Company,287,Ticker-Symbol Exact Match,1.0
+MKTX,MarketAxess,288,Ticker-Symbol Exact Match,1.0
+MLM,Martin Marietta Materials,289,Ticker-Symbol Exact Match,1.0
+MMC,Marsh McLennan,290,Ticker-Symbol Exact Match,1.0
+MMM,3M,291,Ticker-Symbol Exact Match,1.0
+MNST,Monster Beverage,292,Ticker-Symbol Exact Match,1.0
+MO,Altria,293,Ticker-Symbol Exact Match,1.0
+MOH,Molina Healthcare,294,Ticker-Symbol Exact Match,1.0
+MOS,Mosaic Company (The),295,Ticker-Symbol Exact Match,1.0
+MPC,Marathon Petroleum,296,Ticker-Symbol Exact Match,1.0
+MPWR,Monolithic Power Systems,297,Ticker-Symbol Exact Match,1.0
+MRK,Merck & Co.,298,Ticker-Symbol Exact Match,1.0
+MRNA,Moderna,299,Ticker-Symbol Exact Match,1.0
+MRO,Marathon Oil,300,Ticker-Symbol Exact Match,1.0
+MS,Morgan Stanley,301,Ticker-Symbol Exact Match,1.0
+MSCI,MSCI,302,Ticker-Symbol Exact Match,1.0
+MSFT,Microsoft,303,Ticker-Symbol Exact Match,1.0
+MSI,Motorola Solutions,304,Ticker-Symbol Exact Match,1.0
+MTB,M&T Bank,305,Ticker-Symbol Exact Match,1.0
+MTCH,Match Group,306,Ticker-Symbol Exact Match,1.0
+MTD,Mettler Toledo,307,Ticker-Symbol Exact Match,1.0
+MU,Micron Technology,308,Ticker-Symbol Exact Match,1.0
+NCLH,Norwegian Cruise Line Holdings,309,Ticker-Symbol Exact Match,1.0
+NDAQ,"Nasdaq, Inc.",310,Ticker-Symbol Exact Match,1.0
+NEE,NextEra Energy,311,Ticker-Symbol Exact Match,1.0
+NEM,Newmont,312,Ticker-Symbol Exact Match,1.0
+NFLX,Netflix,313,Ticker-Symbol Exact Match,1.0
+NI,NiSource,314,Ticker-Symbol Exact Match,1.0
+NKE,"Nike, Inc.",315,Ticker-Symbol Exact Match,1.0
+NOC,Northrop Grumman,316,Ticker-Symbol Exact Match,1.0
+NOW,ServiceNow,317,Ticker-Symbol Exact Match,1.0
+NRG,NRG Energy,318,Ticker-Symbol Exact Match,1.0
+NSC,Norfolk Southern Railway,319,Ticker-Symbol Exact Match,1.0
+NTAP,NetApp,320,Ticker-Symbol Exact Match,1.0
+NTRS,Northern Trust,321,Ticker-Symbol Exact Match,1.0
+NUE,Nucor,322,Ticker-Symbol Exact Match,1.0
+NVDA,Nvidia,323,Ticker-Symbol Exact Match,1.0
+NVR,"NVR, Inc.",324,Ticker-Symbol Exact Match,1.0
+NWS,News Corp (Class B),325,Ticker-Symbol Exact Match,1.0
+NWSA,News Corp (Class A),326,Ticker-Symbol Exact Match,1.0
+NXPI,NXP Semiconductors,327,Ticker-Symbol Exact Match,1.0
+O,Realty Income,328,Ticker-Symbol Exact Match,1.0
+ODFL,Old Dominion,329,Ticker-Symbol Exact Match,1.0
+OKE,ONEOK,330,Ticker-Symbol Exact Match,1.0
+OMC,Omnicom Group,331,Ticker-Symbol Exact Match,1.0
+ON,ON Semiconductor,332,Ticker-Symbol Exact Match,1.0
+ORCL,Oracle Corporation,333,Ticker-Symbol Exact Match,1.0
+ORLY,O'Reilly Auto Parts,334,Ticker-Symbol Exact Match,1.0
+OTIS,Otis Worldwide,335,Ticker-Symbol Exact Match,1.0
+OXY,Occidental Petroleum,336,Ticker-Symbol Exact Match,1.0
+PANW,Palo Alto Networks,337,Ticker-Symbol Exact Match,1.0
+PARA,Paramount Global,338,Ticker-Symbol Exact Match,1.0
+PAYC,Paycom,339,Ticker-Symbol Exact Match,1.0
+PAYX,Paychex,340,Ticker-Symbol Exact Match,1.0
+PCAR,Paccar,341,Ticker-Symbol Exact Match,1.0
+PCG,PG&E Corporation,342,Ticker-Symbol Exact Match,1.0
+PEG,Public Service Enterprise Group,343,Ticker-Symbol Exact Match,1.0
+PEP,PepsiCo,344,Ticker-Symbol Exact Match,1.0
+PFE,Pfizer,345,Ticker-Symbol Exact Match,1.0
+PFG,Principal Financial Group,346,Ticker-Symbol Exact Match,1.0
+PG,Procter & Gamble,347,Ticker-Symbol Exact Match,1.0
+PGR,Progressive Corporation,348,Ticker-Symbol Exact Match,1.0
+PH,Parker Hannifin,349,Ticker-Symbol Exact Match,1.0
+PHM,PulteGroup,350,Ticker-Symbol Exact Match,1.0
+PKG,Packaging Corporation of America,351,Ticker-Symbol Exact Match,1.0
+PLD,Prologis,352,Ticker-Symbol Exact Match,1.0
+PM,Philip Morris International,353,Ticker-Symbol Exact Match,1.0
+PNC,PNC Financial Services,354,Ticker-Symbol Exact Match,1.0
+PNR,Pentair,355,Ticker-Symbol Exact Match,1.0
+PNW,Pinnacle West,356,Ticker-Symbol Exact Match,1.0
+PODD,Insulet,357,Ticker-Symbol Exact Match,1.0
+POOL,Pool Corporation,358,Ticker-Symbol Exact Match,1.0
+PPG,PPG Industries,359,Ticker-Symbol Exact Match,1.0
+PRU,Prudential Financial,360,Ticker-Symbol Exact Match,1.0
+PSA,Public Storage,361,Ticker-Symbol Exact Match,1.0
+PSX,Phillips 66,362,Ticker-Symbol Exact Match,1.0
+PTC,PTC,363,Ticker-Symbol Exact Match,1.0
+PWR,Quanta Services,364,Ticker-Symbol Exact Match,1.0
+PXD,Pioneer Natural Resources,365,Ticker-Symbol Exact Match,1.0
+PYPL,PayPal,366,Ticker-Symbol Exact Match,1.0
+QCOM,Qualcomm,367,Ticker-Symbol Exact Match,1.0
+QRVO,Qorvo,368,Ticker-Symbol Exact Match,1.0
+RCL,Royal Caribbean Group,369,Ticker-Symbol Exact Match,1.0
+REG,Regency Centers,370,Ticker-Symbol Exact Match,1.0
+REGN,Regeneron,371,Ticker-Symbol Exact Match,1.0
+RF,Regions Financial Corporation,372,Ticker-Symbol Exact Match,1.0
+RHI,Robert Half,373,Ticker-Symbol Exact Match,1.0
+RJF,Raymond James,374,Ticker-Symbol Exact Match,1.0
+RL,Ralph Lauren Corporation,375,Ticker-Symbol Exact Match,1.0
+RMD,ResMed,376,Ticker-Symbol Exact Match,1.0
+ROK,Rockwell Automation,377,Ticker-Symbol Exact Match,1.0
+ROL,"Rollins, Inc.",378,Ticker-Symbol Exact Match,1.0
+ROP,Roper Technologies,379,Ticker-Symbol Exact Match,1.0
+ROST,Ross Stores,380,Ticker-Symbol Exact Match,1.0
+RSG,Republic Services,381,Ticker-Symbol Exact Match,1.0
+RVTY,Revvity,382,Ticker-Symbol Exact Match,1.0
+SBAC,SBA Communications,383,Ticker-Symbol Exact Match,1.0
+SBUX,Starbucks,384,Ticker-Symbol Exact Match,1.0
+SCHW,Charles Schwab Corporation,385,Ticker-Symbol Exact Match,1.0
+SHW,Sherwin-Williams,386,Ticker-Symbol Exact Match,1.0
+SJM,J.M. Smucker Company (The),387,Ticker-Symbol Exact Match,1.0
+SLB,Schlumberger,388,Ticker-Symbol Exact Match,1.0
+SNA,Snap-on,389,Ticker-Symbol Exact Match,1.0
+SNPS,Synopsys,390,Ticker-Symbol Exact Match,1.0
+SO,Southern Company,391,Ticker-Symbol Exact Match,1.0
+SPG,Simon Property Group,392,Ticker-Symbol Exact Match,1.0
+SPGI,S&P Global,393,Ticker-Symbol Exact Match,1.0
+SRE,Sempra Energy,394,Ticker-Symbol Exact Match,1.0
+STLD,Steel Dynamics,395,Ticker-Symbol Exact Match,1.0
+STT,State Street Corporation,396,Ticker-Symbol Exact Match,1.0
+STX,Seagate Technology,397,Ticker-Symbol Exact Match,1.0
+STZ,Constellation Brands,398,Ticker-Symbol Exact Match,1.0
+SWK,Stanley Black & Decker,399,Ticker-Symbol Exact Match,1.0
+SWKS,Skyworks Solutions,400,Ticker-Symbol Exact Match,1.0
+SYF,Synchrony Financial,401,Ticker-Symbol Exact Match,1.0
+SYY,Sysco,402,Ticker-Symbol Exact Match,1.0
+TAP,Molson Coors Beverage Company,403,Ticker-Symbol Exact Match,1.0
+TDG,TransDigm Group,404,Ticker-Symbol Exact Match,1.0
+TDY,Teledyne Technologies,405,Ticker-Symbol Exact Match,1.0
+TECH,Bio-Techne,406,Ticker-Symbol Exact Match,1.0
+TEL,TE Connectivity,407,Ticker-Symbol Exact Match,1.0
+TER,Teradyne,408,Ticker-Symbol Exact Match,1.0
+TFC,Truist,409,Ticker-Symbol Exact Match,1.0
+TGT,Target Corporation,410,Ticker-Symbol Exact Match,1.0
+TJX,TJX Companies,411,Ticker-Symbol Exact Match,1.0
+TMO,Thermo Fisher Scientific,412,Ticker-Symbol Exact Match,1.0
+TMUS,T-Mobile US,413,Ticker-Symbol Exact Match,1.0
+TPR,"Tapestry, Inc.",414,Ticker-Symbol Exact Match,1.0
+TRGP,Targa Resources,415,Ticker-Symbol Exact Match,1.0
+TROW,T. Rowe Price,416,Ticker-Symbol Exact Match,1.0
+TRV,Travelers Companies (The),417,Ticker-Symbol Exact Match,1.0
+TSCO,Tractor Supply,418,Ticker-Symbol Exact Match,1.0
+TSLA,"Tesla, Inc.",419,Ticker-Symbol Exact Match,1.0
+TSN,Tyson Foods,420,Ticker-Symbol Exact Match,1.0
+TT,Trane Technologies,421,Ticker-Symbol Exact Match,1.0
+TTWO,Take-Two Interactive,422,Ticker-Symbol Exact Match,1.0
+TXN,Texas Instruments,423,Ticker-Symbol Exact Match,1.0
+TXT,Textron,424,Ticker-Symbol Exact Match,1.0
+TYL,Tyler Technologies,425,Ticker-Symbol Exact Match,1.0
+UAL,United Airlines Holdings,426,Ticker-Symbol Exact Match,1.0
+UBER,Uber,427,Ticker-Symbol Exact Match,1.0
+UDR,"UDR, Inc.",428,Ticker-Symbol Exact Match,1.0
+UHS,Universal Health Services,429,Ticker-Symbol Exact Match,1.0
+ULTA,Ulta Beauty,430,Ticker-Symbol Exact Match,1.0
+UNH,UnitedHealth Group,431,Ticker-Symbol Exact Match,1.0
+UNP,Union Pacific Corporation,432,Ticker-Symbol Exact Match,1.0
+UPS,United Parcel Service,433,Ticker-Symbol Exact Match,1.0
+URI,United Rentals,434,Ticker-Symbol Exact Match,1.0
+USB,U.S. Bank,435,Ticker-Symbol Exact Match,1.0
+V,Visa Inc.,436,Ticker-Symbol Exact Match,1.0
+VICI,Vici Properties,437,Ticker-Symbol Exact Match,1.0
+VLO,Valero Energy,438,Ticker-Symbol Exact Match,1.0
+VMC,Vulcan Materials Company,439,Ticker-Symbol Exact Match,1.0
+VRSK,Verisk,440,Ticker-Symbol Exact Match,1.0
+VRSN,Verisign,441,Ticker-Symbol Exact Match,1.0
+VRTX,Vertex Pharmaceuticals,442,Ticker-Symbol Exact Match,1.0
+VTR,Ventas,443,Ticker-Symbol Exact Match,1.0
+VTRS,Viatris,444,Ticker-Symbol Exact Match,1.0
+VZ,Verizon,445,Ticker-Symbol Exact Match,1.0
+WAB,Wabtec,446,Ticker-Symbol Exact Match,1.0
+WAT,Waters Corporation,447,Ticker-Symbol Exact Match,1.0
+WBA,Walgreens Boots Alliance,448,Ticker-Symbol Exact Match,1.0
+WBD,Warner Bros. Discovery,449,Ticker-Symbol Exact Match,1.0
+WDC,Western Digital,450,Ticker-Symbol Exact Match,1.0
+WEC,WEC Energy Group,451,Ticker-Symbol Exact Match,1.0
+WELL,Welltower,452,Ticker-Symbol Exact Match,1.0
+WFC,Wells Fargo,453,Ticker-Symbol Exact Match,1.0
+WM,Waste Management,454,Ticker-Symbol Exact Match,1.0
+WMB,Williams Companies,455,Ticker-Symbol Exact Match,1.0
+WMT,Walmart,456,Ticker-Symbol Exact Match,1.0
+WRB,Berkley,457,Ticker-Symbol Exact Match,1.0
+WRK,WestRock,458,Ticker-Symbol Exact Match,1.0
+WST,West Pharmaceutical Services,459,Ticker-Symbol Exact Match,1.0
+WTW,Willis Towers Watson,460,Ticker-Symbol Exact Match,1.0
+WY,Weyerhaeuser,461,Ticker-Symbol Exact Match,1.0
+WYNN,Wynn Resorts,462,Ticker-Symbol Exact Match,1.0
+XEL,Xcel Energy,463,Ticker-Symbol Exact Match,1.0
+XOM,ExxonMobil,464,Ticker-Symbol Exact Match,1.0
+XYL,Xylem Inc.,465,Ticker-Symbol Exact Match,1.0
+YUM,Yum! Brands,466,Ticker-Symbol Exact Match,1.0
+ZBH,Zimmer Biomet,467,Ticker-Symbol Exact Match,1.0
+ZBRA,Zebra Technologies,468,Ticker-Symbol Exact Match,1.0
+ZTS,Zoetis,469,Ticker-Symbol Exact Match,1.0

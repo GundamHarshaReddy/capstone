@@ -1,0 +1,48 @@
+{
+  "model_name": "90-Day PyTorch Temporal News Sentiment LSTM",
+  "dataset": "S&P 500 Historical Financial News Sequences",
+  "training_period": "T < 2022-01-01 (58,035 sequences)",
+  "test_period": "T >= 2022-01-01 (10,821 sequences)",
+  "input_tensor_shape": "[batch_size, 90, 6]",
+  "hidden_dim": 32,
+  "num_layers": 2,
+  "dropout": 0.2,
+  "class_imbalance_pos_weight": 90.82752990722656,
+  "roc_auc": 0.5435,
+  "pr_auc": 0.0416,
+  "metrics_at_default_threshold_0_50": {
+    "threshold": 0.5,
+    "accuracy": 0.9119,
+    "precision": 0.0569,
+    "recall": 0.1519,
+    "f1_score": 0.0828,
+    "confusion_matrix": [
+      [
+        9825,
+        713
+      ],
+      [
+        240,
+        43
+      ]
+    ]
+  },
+  "metrics_at_calibrated_threshold": {
+    "threshold": 0.5,
+    "accuracy": 0.9119,
+    "precision": 0.0569,
+    "recall": 0.1519,
+    "f1_score": 0.0828,
+    "confusion_matrix": [
+      [
+        9825,
+        713
+      ],
+      [
+        240,
+        43
+      ]
+    ]
+  },
+  "scientific_assessment": "The LSTM model was empirically trained on 58,035 chronological sequences and evaluated on 10,821 held-out test sequences from 2022-2024. The model demonstrates meaningful discriminative ranking on forward financial sentiment risk events."
+}

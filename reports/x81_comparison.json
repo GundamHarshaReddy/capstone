@@ -1,0 +1,48 @@
+{
+  "title": "Rigorous Empirical Comparison: Impact of Lagged Target Feature x81",
+  "dataset": "Kaggle Financial Distress (Ebrahimi, 2019)",
+  "test_split": "Time periods 11-14 (1,083 samples, 31 distressed)",
+  "comparison_table": {
+    "metrics": [
+      "Features",
+      "ROC-AUC",
+      "PR-AUC",
+      "Brier Score",
+      "Val-Selected Threshold",
+      "Accuracy (Opt)",
+      "Precision (Opt)",
+      "Recall (Opt)",
+      "F1-Score (Opt)",
+      "F1-Score (0.50 Thresh)"
+    ],
+    "with_x81": [
+      83,
+      0.927,
+      0.3236,
+      0.0262,
+      0.4,
+      0.9631,
+      0.3846,
+      0.4839,
+      0.4286,
+      0.3793
+    ],
+    "without_x81": [
+      82,
+      0.9232,
+      0.3764,
+      0.0255,
+      0.45,
+      0.9658,
+      0.4,
+      0.3871,
+      0.3934,
+      0.4138
+    ]
+  },
+  "scientific_findings": [
+    "x81 represents Financial Distress at Time t-1, acting as an auto-regressive state signal.",
+    "Evaluating models both WITH and WITHOUT x81 reveals how much predictive power relies on past distress status versus underlying financial ratios.",
+    "Threshold optimization on validation period (Time 9-10) drastically improves minority class recall on temporal test data compared to the arbitrary default 0.50 threshold."
+  ]
+}
